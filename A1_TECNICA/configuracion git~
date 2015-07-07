@@ -12,3 +12,6 @@ lpesantes@gm:~$ cd /var/www/html
 lpesantes@gm:~$ git clone -b dev https://github.com/galgomedia/EXTENSIONES.git
 lpesantes@gm:~$ git status
 lpesantes@gm:~$ cd /var/www/html/EXTENSIONES
+
+
+Ya se puede trabaja!!!. Si hay que adicinar archivos lo deberá hacer con 

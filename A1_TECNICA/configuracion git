@@ -14,4 +14,9 @@ lpesantes@gm:~$ git status
 lpesantes@gm:~$ cd /var/www/html/EXTENSIONES
 
 
-Ya se puede trabaja!!!. Si hay que adicinar archivos lo deberá hacer con 
+Ya se puede trabaja!!!. Si hay que adicinar archivos lo deberá hacer con las siguientes instrucciones:
+
+lpesantes@gm:/var/www/html/EXTENSIONES$ git status
+lpesantes@gm:/var/www/html/EXTENSIONES$ git add *
+lpesantes@gm:/var/www/html/EXTENSIONES$ git commit -am 'texto de explicacion del cambio'
+lpesantes@gm:/var/www/html/EXTENSIONES$ git push
