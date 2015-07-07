@@ -1,0 +1,14 @@
+lpesantes@gm:~$ git config --global user.name "lpesantesm"
+lpesantes@gm:~$ git config --global user.email "lpesantesm@gmail.com"
+lpesantes@gm:~$ cd /var/www/html/EXTENSIONES/
+lpesantes@gm:~$ git status
+lpesantes@gm:~$ git commit -am "Cambios de titulos y formato numerico en vista de informacion de Planes"
+lpesantes@gm:~$ git pull
+
+
+PARA CLONAR UN REPOSITORIO
+lpesantes@gm:~$ clear
+lpesantes@gm:~$ cd /var/www/html
+lpesantes@gm:~$ git clone -b dev https://github.com/galgomedia/EXTENSIONES.git
+lpesantes@gm:~$ git status
+lpesantes@gm:~$ cd /var/www/html/EXTENSIONES

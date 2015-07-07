@@ -1,0 +1,4 @@
+lpesantes@gm:/$ nodejs --version
+v0.10.37
+lpesantes@gm:/$ sudo apt-get autoremove --purge nodejs
+
